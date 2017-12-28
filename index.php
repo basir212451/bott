@@ -66,7 +66,7 @@ if($url['result'] != 100)
 							'messages' => array(
 								array(
 										'type' => 'text',					
-										'text' => 'Maaf Kanda '.$profil->displayName.' Sedang dalam proses perbaikan id line:aloneup.'
+										'text' => 'Maaf Kanda '.$profil->displayName.' Sedang dalam proses perbaikan id line:aloneup'
 									)
 							)
 						);
